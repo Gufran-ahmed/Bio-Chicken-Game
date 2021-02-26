@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MetalDoor
+comment0.text=\r\n\ A\ specialized\ normal\ door\ made\ of\ metal.\ \ \r\n\ Metal\ doors\ open\ when\ all\ "radars"\ in\ a\ level\ have\ been\ destroyed.\r\n\ @author\r\n\ @version\ 2.0\r\n
+comment1.params=closed\ destination
+comment1.target=MetalDoor(boolean,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MetalDoor\r\n\ @param\ closed\ is\ the\ door\ closed\ on\ start\r\n\ @param\ destination\ the\ level\ the\ door\ leads\ to,\ or\ -100\ if\ next\ level\ in\ game\ sequence\r\n
+comment2.params=closed
+comment2.target=MetalDoor(boolean)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ MetalDoor\r\n\ The\ door\ will\ lead\ to\ the\ next\ level\ in\ default\ game\ sequence\r\n\ @param\ closed\ is\ the\ door\ closed\ on\ start\r\n
+comment3.params=
+comment3.target=void\ whileClosed()
+comment3.text=\r\n\ Metal\ doors\ open\ when\ all\ the\ "radars"\ in\ the\ level\ have\ been\ destroyed\r\n
+numComments=4

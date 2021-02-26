@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=rotalift
+comment0.text=\r\n\ so\r\n\ its\ a\ rotating\ lift\r\n\ \r\n\ code\ is\ put\ together\ from\ sidelift\ and\ fire\r\n\ \r\n
+comment1.params=ang\ rot\ disx\ disy
+comment1.target=rotalift(float,\ float,\ int,\ int)
+comment2.params=
+comment2.target=rotalift()
+comment3.params=world
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=
+comment4.target=void\ rotate()
+comment5.params=
+comment5.target=void\ act()
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=partselect
+comment1.params=lev\ img
+comment1.target=partselect(int,\ int)
+comment2.params=
+comment2.target=partselect()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=dmg
+comment4.target=void\ damageStun(int)
+comment5.params=
+comment5.target=boolean\ canattack()
+numComments=6

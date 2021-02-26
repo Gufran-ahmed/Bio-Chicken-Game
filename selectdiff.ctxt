@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=selectdiff
+comment0.text=\r\n\ Difficulty\ selector\r\n
+comment1.params=
+comment1.target=selectdiff()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=dmg
+comment3.target=void\ damageStun(int)
+numComments=4

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=NormalDoor
+comment0.text=\r\n\ Door\ that\ takes\ the\ player\ to\ the\ next\ level\r\n\ This\ is\ an\ updated\ version\ of\ door,\ adapted\ for\ AbstractDoor\r\n\ @author\ \r\n\ @version\ 2.0\r\n
+comment1.params=closed\ destination
+comment1.target=NormalDoor(boolean,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ NormalDoor\r\n\ @param\ closed\ is\ the\ door\ closed\ on\ start\r\n\ @param\ destination\ the\ level\ the\ door\ leads\ to,\ or\ -100\ if\ next\ level\ in\ game\ sequence\r\n
+comment2.params=closed
+comment2.target=NormalDoor(boolean)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ NormalDoor\r\n\ The\ door\ will\ lead\ to\ the\ next\ level\ in\ default\ game\ sequence\r\n\ @param\ closed\ is\ the\ door\ closed\ on\ start\r\n
+comment3.params=closed\ destination\ cl\ op
+comment3.target=NormalDoor(boolean,\ int,\ greenfoot.GreenfootImage,\ greenfoot.GreenfootImage)
+comment3.text=\r\n\ Constructor\ used\ by\ subclasses\ to\ set\ the\ open\ and\ closed\ images\r\n
+comment4.params=
+comment4.target=void\ whileOpen()
+comment4.text=\r\n\ Takes\ the\ player\ to\ the\ linked\ game\ level\ if\ they\ are\ at\ the\ door.\ \r\n
+numComments=5

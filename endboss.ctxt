@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=endboss
+comment0.text=\r\n\ ENDBOSS\ -\ ELECTRIC\ GOD\r\n
+comment1.params=
+comment1.target=endboss()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ gethurt()
+comment4.params=
+comment4.target=void\ checkbackground()
+numComments=5

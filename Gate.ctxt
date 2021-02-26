@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Gate
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Gates\ here.\r\n\ \r\n\ @author\ (Gufran\ Ahmed)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=cycle_duration
+comment1.target=Gate(int)
+comment1.text=\r\n\ Gate\ Constructor\r\n\r\n\ @param\ cycle_duration\ A\ parameter\r\n
+comment2.params=open\ cl\ op
+comment2.target=Gate(boolean,\ greenfoot.GreenfootImage,\ greenfoot.GreenfootImage)
+comment2.text=\r\n\ Gate\ Constructor\ used\ by\ subclasses\ to\ set\ the\ open\ and\ closed\ images\r\n\r\n\ @param\ open\ A\ parameter\ is\ the\ door\ open\ on\ start\r\n
+comment3.params=
+comment3.target=void\ whileClosed()
+comment3.text=\r\n\ Method\ whileClosed,\ opens\ gate\ when\ condition\ is\ met\r\n\r\n
+comment4.params=
+comment4.target=void\ whileOpen()
+comment4.text=\r\n\ Method\ whileOpen\ closes\ gate\ when\ condition\ is\ met\r\n\r\n
+numComments=5

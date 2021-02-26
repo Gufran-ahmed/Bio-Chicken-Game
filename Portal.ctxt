@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Portal
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Portal\ here.\r\n\ \r\n\ @author\ (Gufran\ Ahmed)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Portal()
+comment1.text=\r\n\ no\ parameter\ Portal\ Constructor\r\n\r\n
+comment2.params=closed\ cl\ op
+comment2.target=Portal(boolean,\ greenfoot.GreenfootImage,\ greenfoot.GreenfootImage)
+comment2.text=\r\n\ Portal\ Constructor\ used\ by\ subclasses\ to\ set\ the\ open\ and\ closed\ images\r\n\ @param\ closed\ A\ parameter\ is\ the\ door\ closed\ on\ start\r\n\ @param\ cl\ A\ parameter\r\n\ @param\ op\ A\ parameter\r\n
+comment3.params=p
+comment3.target=void\ connect(Portal)
+comment3.text=\r\n\ Method\ connect\ connects\ the\ two\ portals\ for\ teleporting\r\n\r\n\ @param\ p\ A\ parameter\r\n
+comment4.params=
+comment4.target=void\ whileOpen()
+comment4.text=\r\n\ Method\ whileOpen\ open\ when\ player\ touches\ portal\ and\ gives\ the\ directionality\ of\ the\ player\ after\ teleporting\r\n\r\n
+numComments=5

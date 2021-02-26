@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DoorTests
+comment0.text=\r\n\ Instead\ of\ updating\ myWorld\ directly\ (it's\ a\ long\ class\ with\ many\ interdependent\ variables\r\n\ and\ methods),\ use\ the\ methods\ in\ this\ class\ to\ add\ elements\ to\ levels.\r\n\ \r\n\ @author\ Derek\ Reilly\r\n\ @version\ 1.0\r\n
+comment1.params=world
+comment1.target=void\ setUpTestLevel(greenfoot.World)
+comment1.text=\r\n\ This\ method\ gets\ called\ when\ setting\ up\ the\ "Test\ Area",\ a\ plain\ level\ for\ debugging\r\n\ new\ game\ elements\r\n\ @param\ world\ the\ game\ world,\ used\ to\ add\ game\ elements\ via\ addObject\r\n
+comment2.params=world
+comment2.target=void\ setUpLevelOne(greenfoot.World)
+comment2.text=\r\n\ This\ is\ the\ first\ level\ of\ the\ first\ game\ episode.\r\n
+comment3.params=world
+comment3.target=void\ setUpPortalLevel(greenfoot.World)
+comment3.text=\r\n\ This\ is\ a\ portal\ level\ for\ testing.\ Right\ now\ it's\ connected\ to\ the\ test\ level\ (see\ above).\r\n
+numComments=4

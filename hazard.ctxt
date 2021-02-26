@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=hazard
+comment0.text=\r\n\ Hazards\ are\ just\ things\ you\ cannot\ destroy\r\n\ but\ they\ move\ around\ and\ trying\ to\ hurt\ you\r\n\ but\ just\ patterns,\ no\ intelligence\ involved\r\n
+comment1.params=
+comment1.target=hazard()
+comment2.params=dis\ direction\ spe\ fre
+comment2.target=hazard(int,\ int,\ int,\ float)
+comment3.params=world
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ huntplayer()
+numComments=6

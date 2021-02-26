@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=electricity
+comment1.params=noeffect
+comment1.target=electricity(boolean)
+comment2.params=
+comment2.target=electricity()
+comment3.params=world
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ removeme()
+numComments=6

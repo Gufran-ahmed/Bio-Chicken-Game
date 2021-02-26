@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=wormpart
+comment1.params=
+comment1.target=wormpart()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ fall()
+comment4.params=xx\ yy
+comment4.target=void\ place(int,\ int)
+comment5.params=
+comment5.target=void\ playerslope()
+numComments=6
